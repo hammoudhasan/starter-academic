@@ -6,12 +6,12 @@ title: Hasan Abed Al Kader Hammoud
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MS/PhD Student - Electrical and Computer Engineer (Deep Learning)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: King Abdullah University of Science and Technology (KAUST)
+  url: https://www.kaust.edu.sa/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
