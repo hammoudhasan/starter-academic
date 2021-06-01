@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: 'hasanabedalkader.hammoud@kaust.edu.sa'
-phone: '+966 0566093291'
-address: 'a'
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+email: hasanabedalkader.hammoud@kaust.edu.sa
+#phone: 888 888 88 88
+address:
+  street: KAUST
+  city: Thuwal
+#  region: CA
+  postcode: '23955'
+  country: Saudi Arabia
+  country_code: KSA
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
